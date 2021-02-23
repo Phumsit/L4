@@ -1,0 +1,13 @@
+.show-details{
+    align-items: center;
+    background-color: aqua;
+    border: 1px solid blue;
+    border-radius: 3px;
+    color: black;
+    display: flex;
+    height: 2em;
+    font-weight: bold;
+}
+.hidden {
+    display: none;
+}

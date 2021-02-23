@@ -1,0 +1,24 @@
+body {
+    background-color: dimgray;
+}
+div {
+    border-radius:  20px;
+    padding: 20px;
+    margin-top: 30px;
+}
+
+#outer {
+    background-color: burlywood;
+}
+
+#outer.selected {
+    background-color: chocolate;
+}
+
+#inner {
+    background-color: darkred;
+}
+
+#inner.selected {
+    background-color: deeppink;
+}
